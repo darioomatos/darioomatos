@@ -20,7 +20,7 @@
 - 💻 Web: `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 - 🔐 Security: `Linux`, `Networking`, `Wireshark`, `Burp Suite`, `nmap`
 - 🐍 Scripting: `Python`, `ShellScript`
-- ⚙️ Tools: `Git` `Docker` `Neovim` `Tails Linux`
+- ⚙️ Tools: `Git` `Docker` `Neovim` `Tails Linux` `Linux Manjaro` `FreeBSD` 
 
 ---
 
@@ -35,9 +35,9 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/)
-- 🌍 [Portfolio](https://seu-portfolio-aqui.com) *(se tiver um)*
-- 📨 Email: seuemail@protonmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/darioomatos/)
+- 🌍 [Portfolio](https://linktr.ee/darioomatos)
+- 📨 Email: dario.oliveiramatos@gmail.com
 
 ---
 
