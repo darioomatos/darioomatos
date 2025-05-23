@@ -19,9 +19,18 @@
 ### 🛠️ Tech Stack
 
 - 💻 Web: `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-- 🔐 Security: `Linux Manjaro`, `FreeBSD`, `**Networking**`: `Wireshark`, `Burp Suite`, `nmap`
+- 🔐 Security: `Linux Manjaro`, `FreeBSD`, `Networking`, `Wireshark`, `Burp Suite`, `nmap`
 - 🐍 Scripting: `Python`, `ShellScript`, `PowerShell`
-- ⚙️ Tools: `Git`, `Docker`, `Neovim`, `Tails Linux`, `Tor`
+- ⚙️ Tools: `Git`, `Docker`, `Neovim`, `Tails Linux`
+
+---
+
+### 🎓 In Progress: Certifications
+
+- 📚 Currently preparing for:
+  - `CompTIA Security+`
+  - `CEH (Certified Ethical Hacker)`
+- 🏴‍☠️ Finalizing the **Pentest Profissional** course by [DESEC Security](https://desecsecurity.com/), aiming for official certification
 
 ---
 
@@ -45,3 +54,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darioomatos&label=Profile+views" alt="darioomatos" />
 </p>
+
