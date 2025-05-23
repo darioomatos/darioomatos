@@ -1,16 +1,46 @@
-## Hi there Dario 👋
+<h1 align="center">👋 Hello, I'm Dario Matos</h1>
 
-<!--
-**darioomatos/darioomatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🛡️ Cybersecurity Student | 🧠 Ethical Hacking Enthusiast <br>
+  🌐 Web Developer | 🐍 Python & 🐚 Shell Scripting <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+🔍 I'm currently diving deep into **Cybersecurity**, with a focus on **Ethical Hacking**, **Pentesting**, and **CTF challenges**.  
+💻 I'm also a Web Developer, trained in designing and building modern web applications.  
+📚 Passionate about continuous learning, automation, and open-source.
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 Web: `HTML` `CSS` `JavaScript` `PHP` `MySQL`
+- 🔐 Security: `Linux`, `Networking`, `Wireshark`, `Burp Suite`, `nmap`
+- 🐍 Scripting: `Python`, `ShellScript`
+- ⚙️ Tools: `Git` `Docker` `Neovim` `Tails Linux`
+
+---
+
+### 🧠 Currently Learning
+
+- 🧬 Advanced Networking and Protocol Analysis
+- 🔓 Web Application Security (OWASP Top 10)
+- 🔧 Writing custom tools in Python & Bash
+- 🎯 Red/Blue Team methodologies
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui/)
+- 🌍 [Portfolio](https://seu-portfolio-aqui.com) *(se tiver um)*
+- 📨 Email: seuemail@protonmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darioomatos&label=Profile+views" alt="darioomatos" />
+</p>
