@@ -11,6 +11,7 @@
 
 🔍 I'm currently diving deep into **Cybersecurity**, with a focus on **Ethical Hacking**, **Pentesting**, and **CTF challenges**.  
 💻 I'm also a Web Developer, trained in designing and building modern web applications.  
+🧠 I have solid experience in the **ISP (Internet Service Provider) field**, working both in **technical support** and in **fiber-optic network management**, ensuring infrastructure reliability and high-performance networking.  
 📚 Passionate about continuous learning, automation, and open-source.
 
 ---
@@ -18,9 +19,9 @@
 ### 🛠️ Tech Stack
 
 - 💻 Web: `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-- 🔐 Security: `Linux`, `Networking`, `Wireshark`, `Burp Suite`, `nmap`
-- 🐍 Scripting: `Python`, `ShellScript`
-- ⚙️ Tools: `Git` `Docker` `Neovim` `Tails Linux` `Linux Manjaro` `FreeBSD` 
+- 🔐 Security: `Linux Manjaro`, `FreeBSD`, `**Networking**`: `Wireshark`, `Burp Suite`, `nmap`
+- 🐍 Scripting: `Python`, `ShellScript`, `PowerShell`
+- ⚙️ Tools: `Git`, `Docker`, `Neovim`, `Tails Linux`, `Tor`
 
 ---
 
