@@ -1,57 +1,48 @@
-<h1 align="center">👋 Hello, I'm Dario Matos</h1>
+# Dario Matos · darioomatos
 
-<p align="center">
-  🛡️ Cybersecurity Student | 🧠 Ethical Hacking Enthusiast <br>
-  🌐 Web Developer | 🐍 Python & 🐚 Shell Scripting <br>
-</p>
-
----
-
-### 🚀 About Me
-
-🔍 I'm currently diving deep into **Cybersecurity**, with a focus on **Ethical Hacking**, **Pentesting**, and **CTF challenges**.  
-💻 I'm also a Web Developer, trained in designing and building modern web applications.  
-🧠 I have solid experience in the **ISP (Internet Service Provider) field**, working both in **technical support** and in **fiber-optic network management**, ensuring infrastructure reliability and high-performance networking.  
-📚 Passionate about continuous learning, automation, and open-source.
+🔴 Offensive Security · Pentest · Red Team · Secure Code Review  
+🎓 Computer Engineering @ UNIVESP (in progress)  
+🌐 Based in São Paulo, BR
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-- 💻 Web: `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-- 🔐 Security: `Linux Manjaro`, `FreeBSD`, `Networking`, `Wireshark`, `Burp Suite`, `nmap`
-- 🐍 Scripting: `Python`, `ShellScript`, `PowerShell`
-- ⚙️ Tools: `Git`, `Docker`, `Neovim`, `Tails Linux`
+Security practitioner focused on offensive techniques and infrastructure hardening.
+Background in ISP networking (fiber-optic, L2/L3) — which means I think about
+attacks at the protocol level, not just the application layer.
 
----
-
-### 🎓 In Progress: Certifications
-
-- 📚 Currently preparing for:
-  - `CompTIA Security+`
-  - `CEH (Certified Ethical Hacker)`
-- 🏴‍☠️ Finalizing the **Pentest Profissional** course by [DESEC Security](https://desecsecurity.com/), aiming for official certification
+Currently: building hands-on labs, publishing CVE research, and studying
+Computer Engineering to formalize what I've been doing in practice.
 
 ---
 
-### 🧠 Currently Learning
+## Focus Areas
 
-- 🧬 Advanced Networking and Protocol Analysis
-- 🔓 Web Application Security (OWASP Top 10)
-- 🔧 Writing custom tools in Python & Bash
-- 🎯 Red/Blue Team methodologies
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/darioomatos/)
-- 🌍 [Portfolio](https://linktr.ee/darioomatos)
-- 📨 Email: dario.oliveiramatos@gmail.com
+- 🔓 Web & network pentesting (OWASP, Burp Suite, nmap, Wireshark)
+- 🏴‍☠️ Red team workflows and custom tooling (Python, Bash)
+- 🖥️ OS-level security: Linux kernel, FreeBSD jails, process isolation
+- 🔍 Secure code review and vulnerability research
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darioomatos&label=Profile+views" alt="darioomatos" />
-</p>
+## Tech
 
+`Python` `Bash` `PowerShell` `C`  
+`Linux (Manjaro/Debian)` `FreeBSD` `Docker` `QEMU`  
+`Burp Suite` `nmap` `Wireshark` `Git` `Neovim`
+
+---
+
+## Certifications & Training
+
+- 🏴‍☠️ Pentest Profissional — DESEC Security *(finalizing)*
+- 📚 CompTIA Security+ *(in preparation)*
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/darioomatos/) ·
+[Mastodon @infosec.exchange](https://infosec.exchange/@darioomatos) ·
+[Linktree](https://linktr.ee/darioomatos)
