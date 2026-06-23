@@ -12,7 +12,7 @@ Security practitioner focused on offensive techniques and infrastructure hardeni
 Background in ISP networking (fiber-optic, L2/L3) — which means I think about
 attacks at the protocol level, not just the application layer.
 
-Currently: building hands-on labs, publishing CVE research, and studying
+Currently: building hands-on labs, and studying
 Computer Engineering to formalize what I've been doing in practice.
 
 ---
